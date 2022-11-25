@@ -1,3 +1,11 @@
+---
+date created: 
+date modified: 
+tags : []
+language: 
+author : []
+---
+
 # Set up your dotfiles
 
 https://towardsdatascience.com/dotfiles-could-be-the-most-important-files-on-your-computer-are-you-backing-them-up-99f8f8d99e68
